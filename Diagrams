@@ -1,1 +1,11 @@
+Example concept:
+Art Object
+ ├── height
+ ├── width
+ └── m_painting (int**)
 
+m_painting
+   ↓
+  [row0] → [10][23][55][87]
+  [row1] → [34][66][21][90]
+  [row2] → [12][44][78][65]
