@@ -11,9 +11,11 @@ The main goal of the project was to practice **manual memory management in C++**
 
 The project was developed in a Linux environment and tested using **Valgrind** to verify that no memory leaks or invalid memory accesses occur.
 
-Project Link : https://swe.umbc.edu/~donyaee/current/projects/proj0.html
+The full implementation of the Art class cannot be publicly shared because it belongs to the university coursework.  
+This repository documents the **architecture, testing strategy, and concepts** used in the project.  
 
-⚠️ The full source code cannot be published because it belongs to a university coursework repository. This repository documents the architecture, testing strategy, and concepts used.
+The official project files provided by the university can be accessed here:  https://swe.umbc.edu/~donyaee/current/projects/proj0.html. 
+
 
 ---
 
